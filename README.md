@@ -1,2 +1,2 @@
-# newfolder
- creating to know more
+# week 1
+day 1
